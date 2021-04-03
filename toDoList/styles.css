@@ -1,0 +1,25 @@
+.container {
+
+  margin: auto;
+  padding-left: 40%;
+  border: 3px solid green;
+  
+  
+}
+
+
+
+li {
+
+display: flex;
+  
+
+}
+ 
+.crud {
+display: flex;
+margin: 10px auto;
+margin-left: 40%;
+
+
+}
