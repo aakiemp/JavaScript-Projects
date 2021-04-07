@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    overflow: hidden;
+}
+
+.title{
+    text-align: center;
+    
+}
+
+.container{
+    margin: 50vh auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.item{
+    
+    border: 3px solid brown;
+    padding: 25px;
+    
+}
+
+.red{
+    background-color: red;
+}
