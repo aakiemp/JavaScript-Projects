@@ -1,2 +1,3 @@
 # JavaScript-Projects
-My JavaScript Journey
+
+Challenging myself with JavaScript
