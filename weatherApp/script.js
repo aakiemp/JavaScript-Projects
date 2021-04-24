@@ -17,6 +17,7 @@ function runApp() {
         })
         .then(populateApp)
 
+
     //populate page with app data
     function populateApp(data) {
         console.log(data)
