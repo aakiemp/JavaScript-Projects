@@ -15,4 +15,3 @@ function duplicateCount(text) {
 
 }
 console.log(duplicateCount(str1))
-
